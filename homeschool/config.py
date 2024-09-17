@@ -1,0 +1,3 @@
+# Supabase configuration
+SUPABASE_URL = "https://dvqymfidwgxdzawpwqpj.supabase.co"
+SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImR2cXltZmlkd2d4ZHphd3B3cXBqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjQ5MjU2MjQsImV4cCI6MjA0MDUwMTYyNH0.n1aR8Tw-fvUN_Ir2bP90YUpy3Mk0OhUMnUtQtGck3-o"
